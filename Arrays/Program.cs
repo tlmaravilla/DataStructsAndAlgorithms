@@ -8,6 +8,13 @@ namespace Arrays
         {
 
             // Exercise 1
+            /*
+             * Create array wrapper that allows you to:
+             * 1. insert numbers into array
+             * 2. remove numbers from array
+             * 3. print to console the array
+             * 
+             */
 
             var supArray = new SuperArray(5);
             supArray.Insert(10);
